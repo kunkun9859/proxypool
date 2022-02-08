@@ -266,13 +266,13 @@ download_pc(){
     green "  1.安装爬虫"
     green "==============="
     sleep 1
-    wget https://github.com/lanhebe/proxypool/releases/download/v0.6/proxypool-linux-amd64-v0.6.0.gz
+    wget https://github.com/kunkun9859/proxypool/releases/download/v0.6/proxypool-linux-amd64-v0.6.0.gz
     gzip -d proxypool-linux-amd64-v0.6.0.gz
     mv proxypool-linux-amd64-v0.6.0 proxypool
     chmod 755 proxypool
 
-    wget https://raw.githubusercontent.com/lanhebe/proxypool/master/config.yaml
-    wget https://raw.githubusercontent.com/lanhebe/proxypool/master/source.yaml
+    wget https://raw.githubusercontent.com/kunkun9859/proxypool/master/config.yaml
+    wget https://raw.githubusercontent.com/kunkun9859/proxypool/master/source.yaml
    
     cat > ./config.yaml <<-EOF
     domain: $your_domain
