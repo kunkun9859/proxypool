@@ -9,7 +9,7 @@
     url: https://proxy.yugogo.xyz/ss/sub
     
    # sip002格式订阅链接
-- type: ss
+- type: sip002
   options:
     url: https://proxy.yugogo.xyz/sip002/sub 
   
