@@ -1,34 +1,34 @@
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://sspool.herokuapp.com/
+    url: https://fq.lonxin.net/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://proxies.bihai.cf/
+    url: https://free.kingfu.cf/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://proxy.yugogo.xyz/
+    url: https://free886.herokuapp.com/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://fq.lonxin.net/
+    url: https://proxies.bihai.cf/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://free.kingfu.cf/
+    url: https://proxy.yugogo.xyz/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://hk.xhrzg2017.xyz/
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-    url: http://149.248.8.112/
+    url: https://sspool.herokuapp.com/clash/proxies
