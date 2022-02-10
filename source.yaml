@@ -1,32 +1,34 @@
-  # clash格式订阅链接
-- type: clash
+# 某个网站抓取
+- type: web-freessrxyz
   options:
-    url: https://proxy.yugogo.xyz/clash/proxies
-    
-   # ss格式订阅链接
-- type: ss
-  options:
-    url: https://proxy.yugogo.xyz/ss/sub
-    
-   # sip002格式订阅链接
-- type: sip002
-  options:
-    url: https://proxy.yugogo.xyz/sip002/sub 
-  
-  # sip002格式订阅链接
-- type: ssr
-  options:
-  url: https://proxy.yugogo.xyz/ssr/sub
-  
-  # vmess格式订阅链接
-- type: vmess
-  options:
-  url: https://proxy.yugogo.xyz/vmess/sub
-  
-  # trojan格式订阅链接
-- type: vmess
-  options:
-  url: https://proxy.yugogo.xyz/trojan/sub
-  
-    
+    url: https://sspool.herokuapp.com/
 
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://proxies.bihai.cf/
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://proxy.yugogo.xyz/
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://fq.lonxin.net/
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://free.kingfu.cf/
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://hk.xhrzg2017.xyz/
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: http://149.248.8.112/
